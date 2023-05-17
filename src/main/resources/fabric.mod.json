@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "rtdd",
+  "version": "${version}",
+
+  "name": "Rural three-dimensional decoration",
+  "description": "rtdd mod resources",
+  "authors": [
+    "crazy_piggy_"
+  ],
+  "contact": {
+    "homepage": "https://space.bilibili.com/625049074"
+  },
+
+  "license": "none",
+  "icon": "assets/rtdd/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.intellij.rtdd.Main"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
