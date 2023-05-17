@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/he_tun_biao_ben_",  "textures": {    "all": "rtdd:block/beehive_side",    "particle": "rtdd:block/beehive_side",    "0": "rtdd:block/beehive_side",    "1": "rtdd:block/pufferfish",    "missing": "rtdd:block/"  },  "render_type": "cutout_mipped"}

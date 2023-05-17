@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/zhi_2",  "textures": {    "all": "rtdd:block/book0",    "particle": "rtdd:block/book0",    "6": "rtdd:block/book0",    "missing": "rtdd:block/"  },  "render_type": "solid"}

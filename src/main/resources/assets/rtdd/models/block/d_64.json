@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/wu_yan_a5",  "textures": {    "all": "rtdd:block/cracked_polished_blackstone_bricks",    "particle": "rtdd:block/cracked_polished_blackstone_bricks",    "0": "rtdd:block/cracked_nether_bricks",    "2": "rtdd:block/stripped_oak_dark"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/da_yu_gang_",  "textures": {    "all": "rtdd:block/glass",    "particle": "rtdd:block/glass",    "0": "rtdd:block/glass",    "1": "rtdd:block/moss_block"  },  "render_type": "translucent"}

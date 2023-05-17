@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/luo_bu_he_",  "textures": {    "all": "rtdd:block/carrot",    "particle": "rtdd:block/carrot",    "0": "rtdd:block/carrot",    "1": "rtdd:block/log_oak_top"  },  "render_type": "solid"}

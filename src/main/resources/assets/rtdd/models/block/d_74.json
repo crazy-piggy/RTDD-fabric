@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/wu_yan_b9",  "textures": {    "all": "rtdd:block/cobbled_deepslate",    "particle": "rtdd:block/cobbled_deepslate",    "0": "rtdd:block/polished_granite",    "2": "rtdd:block/stripped_oak_dark"  },  "render_type": "solid"}

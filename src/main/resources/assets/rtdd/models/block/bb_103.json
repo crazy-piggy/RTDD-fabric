@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/yan_cong_1",  "textures": {    "all": "rtdd:block/brick",    "particle": "rtdd:block/brick",    "1": "rtdd:block/brick"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/bi_deng_",  "textures": {    "all": "rtdd:block/glow_item_frame",    "particle": "rtdd:block/glow_item_frame",    "0": "rtdd:block/bi_deng_"  },  "render_type": "solid"}

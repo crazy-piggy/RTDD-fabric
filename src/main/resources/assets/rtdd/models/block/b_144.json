@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/zhi_wu_jia_",  "textures": {    "all": "rtdd:block/door_spruce_upper",    "particle": "rtdd:block/door_spruce_upper",    "1": "rtdd:block/men_2"  },  "render_type": "solid"}

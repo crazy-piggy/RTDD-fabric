@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/kao_hao_de_yu_",  "textures": {    "all": "rtdd:block/shou_gui_yu_",    "particle": "rtdd:block/shou_gui_yu_",    "1": "rtdd:block/shou_gui_yu_",    "2": "rtdd:block/log_big_oak"  },  "render_type": "cutout_mipped"}

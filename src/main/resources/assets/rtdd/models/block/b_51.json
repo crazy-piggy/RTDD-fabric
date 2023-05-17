@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/lan_se_bu_liao_",  "textures": {    "all": "rtdd:block/lan_se_",    "particle": "rtdd:block/lan_se_",    "0": "rtdd:block/lan_se_"  },  "render_type": "cutout_mipped"}

@@ -14,7 +14,7 @@ import org.jetbrains.annotations.Nullable;
 //b_86
 public class PileOfCoinBlock extends HorizontalFacingBlock {
 
-    protected static final VoxelShape SHAPE = Block.createCuboidShape(0.0, 0.0, 0.0, 16.0, 2.0, 16.0);
+    protected static final VoxelShape SHAPE = Block.createCuboidShape(2.0, 0.0, 2.0, 14.0, 2.0, 14.0);
 
     public PileOfCoinBlock(Settings settings) {
         super(settings);

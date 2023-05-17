@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/gong_men_a2",  "textures": {    "all": "rtdd:block/stone_slab_side",    "particle": "rtdd:block/stone_slab_side",    "3": "rtdd:block/stone_slab_side"  },  "render_type": "solid"}

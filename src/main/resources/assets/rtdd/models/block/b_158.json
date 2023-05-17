@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/niu_tou_gu_1",  "textures": {    "all": "rtdd:block/3rd",    "particle": "rtdd:block/3rd",    "3": "rtdd:block/3rd"  },  "render_type": "solid"}

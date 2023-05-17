@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/da_dun_2",  "textures": {    "all": "rtdd:block/1st",    "particle": "rtdd:block/1st",    "2": "rtdd:block/2nd"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/liang_gan_jia_1",  "textures": {    "all": "rtdd:block/leather",    "particle": "rtdd:block/leather",    "0": "rtdd:block/frame",    "2": "rtdd:block/leather"  },  "render_type": "solid"}

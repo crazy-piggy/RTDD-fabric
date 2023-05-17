@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/mo_xing_",  "textures": {    "all": "rtdd:block/d1",    "particle": "rtdd:block/d1",    "4": "rtdd:block/d1"  },  "render_type": "solid"}

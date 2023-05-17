@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/tai_ju_",  "textures": {    "all": "rtdd:block/jungle_trapdoor",    "particle": "rtdd:block/jungle_trapdoor",    "0": "rtdd:block/composter_bottom",    "1": "rtdd:block/jungle_trapdoor",    "missing": "rtdd:block/"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "block/cube",  "textures": {    "down": "rtdd:block/lu_shi_",    "up": "rtdd:block/lu_shi_",    "north": "rtdd:block/lu_shi_",    "east": "rtdd:block/lu_shi_",    "south": "rtdd:block/lu_shi_",    "west": "rtdd:block/lu_shi_",    "particle": "rtdd:block/lu_shi_"  },  "render_type": "solid"}

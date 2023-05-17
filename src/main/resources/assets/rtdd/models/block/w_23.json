@@ -1,0 +1,1 @@
+{  "parent": "block/cube",  "textures": {    "down": "rtdd:block/hong_shi_",    "up": "rtdd:block/hong_shi_",    "north": "rtdd:block/hong_shi_",    "east": "rtdd:block/hong_shi_",    "south": "rtdd:block/hong_shi_",    "west": "rtdd:block/hong_shi_",    "particle": "rtdd:block/hong_shi_"  },  "render_type": "solid"}

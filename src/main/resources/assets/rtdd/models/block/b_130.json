@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/gui_yu_biao_ben_",  "textures": {    "all": "rtdd:block/beehive_side",    "particle": "rtdd:block/beehive_side",    "0": "rtdd:block/beehive_side",    "4": "rtdd:block/salmon"  },  "render_type": "cutout_mipped"}

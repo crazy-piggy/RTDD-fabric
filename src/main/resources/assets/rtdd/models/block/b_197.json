@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/shu_ben_1",  "textures": {    "all": "rtdd:block/chiseled_bookshelf_occupied",    "particle": "rtdd:block/chiseled_bookshelf_occupied",    "0": "rtdd:block/chiseled_bookshelf_occupied",    "2": "rtdd:block/5e63a1c6f8b1010b208eccb25be0c56"  },  "render_type": "solid"}

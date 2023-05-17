@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/xi_yi_tong_",  "textures": {    "all": "rtdd:block/bamboo_trapdoor",    "particle": "rtdd:block/bamboo_trapdoor",    "0": "rtdd:block/bamboo_planks"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/mian_bao_",  "textures": {    "all": "rtdd:block/mian_bao_dui_",    "particle": "rtdd:block/mian_bao_dui_",    "1": "rtdd:block/mian_bao_"  },  "render_type": "solid"}

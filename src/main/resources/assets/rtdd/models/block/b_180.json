@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/hei_zhuan_shi_mian_",  "textures": {    "all": "rtdd:block/deepslate_tiles",    "particle": "rtdd:block/deepslate_tiles",    "0": "rtdd:block/deepslate_tiles"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/wu_ji_ding_1",  "textures": {    "all": "rtdd:block/cracked_nether_bricks",    "particle": "rtdd:block/cracked_nether_bricks",    "0": "rtdd:block/brick",    "1": "rtdd:block/cart"  },  "render_type": "solid"}

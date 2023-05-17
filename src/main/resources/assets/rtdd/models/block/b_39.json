@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/mian",  "textures": {    "all": "rtdd:block/bread.",    "particle": "rtdd:block/bread.",    "2": "rtdd:block/log_oak_top",    "3": "rtdd:block/mian_bao_"  },  "render_type": "solid"}

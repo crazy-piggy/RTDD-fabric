@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/sui_tan_",  "textures": {    "all": "rtdd:block/coal_block",    "particle": "rtdd:block/coal_block",    "0": "rtdd:block/coal_block"  },  "render_type": "solid"}

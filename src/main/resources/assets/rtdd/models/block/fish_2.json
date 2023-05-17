@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/fisch2",  "textures": {    "all": "rtdd:block/hacken",    "particle": "rtdd:block/hacken",    "3": "rtdd:block/cod_1",    "4": "rtdd:block/meat_hook",    "5": "rtdd:block/hacken",    "missing": "rtdd:block/hacken"  },  "render_type": "solid"}

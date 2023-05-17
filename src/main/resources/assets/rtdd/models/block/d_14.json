@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/jiu_qiang_2",  "textures": {    "all": "rtdd:block/jiu_qiang_1",    "particle": "rtdd:block/jiu_qiang_1",    "0": "rtdd:block/bai_qiang_",    "2": "rtdd:block/jiu_qiang_1"  },  "render_type": "solid"}

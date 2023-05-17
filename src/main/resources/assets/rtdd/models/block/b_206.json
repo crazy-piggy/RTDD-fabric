@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/pei_yu_xiang_1",  "textures": {    "all": "rtdd:block/copper_block",    "particle": "rtdd:block/copper_block",    "0": "rtdd:block/copper_block",    "2": "rtdd:block/farmland_moist",    "3": "rtdd:block/yu",    "missing": "rtdd:block/"  },  "render_type": "solid"}

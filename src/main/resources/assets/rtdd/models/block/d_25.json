@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/tai_zhuan_shi_mian_5",  "textures": {    "all": "rtdd:block/mossy_stone_bricks",    "particle": "rtdd:block/mossy_stone_bricks",    "0": "rtdd:block/mossy_stone_bricks"  },  "render_type": "solid"}

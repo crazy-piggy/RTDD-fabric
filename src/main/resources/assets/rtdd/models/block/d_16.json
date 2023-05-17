@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/ting_bu_4",  "textures": {    "all": "rtdd:block/smoker_bottom",    "particle": "rtdd:block/smoker_bottom",    "0": "rtdd:block/smoker_bottom",    "1": "rtdd:block/cobblestone"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/jiu_bei_2",  "textures": {    "all": "rtdd:block/empty_mug",    "particle": "rtdd:block/empty_mug",    "0": "rtdd:block/barrel_side",    "missing": "rtdd:block/"  },  "render_type": "solid"}

@@ -1,0 +1,1 @@
+{  "parent": "block/cross",  "textures": {    "cross": "rtdd:block/faf99fe3f0d4e416ced0f0237b084df",    "particle": "rtdd:block/faf99fe3f0d4e416ced0f0237b084df"  },  "render_type": "cutout"}

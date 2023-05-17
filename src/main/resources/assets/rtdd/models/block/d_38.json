@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/chuang_lian_4",  "textures": {    "all": "rtdd:block/white_glazed_terracotta",    "particle": "rtdd:block/white_glazed_terracotta",    "1": "rtdd:block/cauldron_inner",    "2": "rtdd:block/white_glazed_terracotta"  },  "render_type": "solid"}

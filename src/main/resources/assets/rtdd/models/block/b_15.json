@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/plank",  "textures": {    "all": "rtdd:block/d96993e867c68b1c859117a1869249d",    "particle": "rtdd:block/d96993e867c68b1c859117a1869249d",    "1": "rtdd:block/cart"  },  "render_type": "solid"}

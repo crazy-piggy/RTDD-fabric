@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/chelun",  "textures": {    "all": "rtdd:block/che_lun_",    "particle": "rtdd:block/che_lun_",    "0": "rtdd:block/cart",    "3": "rtdd:block/log_big_oak"  },  "render_type": "solid"}

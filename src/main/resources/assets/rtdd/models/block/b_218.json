@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/jin_ding_",  "textures": {    "all": "rtdd:block/gold_ingot",    "particle": "rtdd:block/gold_ingot",    "0": "rtdd:block/gold_ingot"  },  "render_type": "solid"}

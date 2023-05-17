@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/biao_",  "textures": {    "all": "rtdd:block/beehive_side",    "particle": "rtdd:block/beehive_side",    "0": "rtdd:block/beehive_side"  },  "render_type": "cutout_mipped"}

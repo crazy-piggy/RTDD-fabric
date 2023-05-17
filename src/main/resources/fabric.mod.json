@@ -18,9 +18,15 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.intellij.rtdd.Main"
+      "com.intellij.rtdd.RTDDMain"
+    ],
+    "client": [
+      "com.intellij.rtdd.RTDDClient"
     ]
   },
+  "mixins": [
+    "rtdd.mixins.json"
+  ],
 
   "depends": {
     "fabricloader": ">=0.14.17",

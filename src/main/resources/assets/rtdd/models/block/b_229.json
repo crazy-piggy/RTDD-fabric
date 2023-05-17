@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/xi_yi_ban_",  "textures": {    "all": "rtdd:block/bamboo_planks",    "particle": "rtdd:block/bamboo_planks",    "0": "rtdd:block/bamboo_planks",    "2": "rtdd:block/acacia_log_top"  },  "render_type": "solid"}
