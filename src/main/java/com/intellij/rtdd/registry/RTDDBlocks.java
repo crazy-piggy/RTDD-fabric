@@ -1,7 +1,8 @@
 package com.intellij.rtdd.registry;
 
 import com.intellij.rtdd.RTDDMain;
-import com.intellij.rtdd.common.block.PileOfCoinBlock;
+import com.intellij.rtdd.common.block.LargePileOfItemsBlock;
+import com.intellij.rtdd.common.block.SmallPileOfItemsBlock;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
@@ -18,9 +19,8 @@ public class RTDDBlocks {
 //    public static final Block POWER_STONE_BLOCK = registerBlock("power_stone",
 //            new PowerStoneBlock(FabricBlockSettings.of(Material.METAL, MapColor.LIGHT_BLUE).requiresTool().strength(5.0f, 6.0f).sounds(BlockSoundGroup.METAL).solidBlock(AbstractBlock.AbstractBlockState::isTransparent)));
 
-    public static final Block PILE_OF_GOLD_COIN_BLOCK = registerBlockWithItem("b_86", new PileOfCoinBlock(FabricBlockSettings.of(Material.DECORATION).strength(1F).sounds(BlockSoundGroup.METAL).noCollision()));
-
-
+    public static final Block PILE_OF_GOLD_COINS_BLOCK = registerBlockWithItem("b_86", new SmallPileOfItemsBlock(FabricBlockSettings.of(Material.DECORATION).strength(1F).sounds(BlockSoundGroup.METAL).noCollision()));
+    public static final Block PILE_OF_APPLES_BLOCK = registerBlockWithItem("b_1", new LargePileOfItemsBlock(FabricBlockSettings.of(Material.DECORATION).strength(1F).sounds(BlockSoundGroup.WOOD)));
 
 
     //default registry

@@ -11,10 +11,11 @@ public class RTDDItemGroups {
 
     public static final ItemGroup DECO = FabricItemGroup.builder(new Identifier(RTDDMain.MODID, "deco"))
             .displayName(Text.translatable("itemGroup.rtdd.deco"))
-            .icon(() -> new ItemStack(RTDDBlocks.PILE_OF_GOLD_COIN_BLOCK.asItem()))
+            .icon(() -> new ItemStack(RTDDBlocks.PILE_OF_GOLD_COINS_BLOCK.asItem()))
             .entries((displayContext, entries) -> {
 
-                entries.add(RTDDBlocks.PILE_OF_GOLD_COIN_BLOCK);
+                entries.add(RTDDBlocks.PILE_OF_GOLD_COINS_BLOCK);
+                entries.add(RTDDBlocks.PILE_OF_APPLES_BLOCK);
 
 
             })
