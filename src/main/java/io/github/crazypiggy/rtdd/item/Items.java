@@ -1,13 +1,13 @@
-package com.intellij.rtdd.item;
+package io.github.crazypiggy.rtdd.item;
 
-import com.intellij.rtdd.block.Blocks;
+import io.github.crazypiggy.rtdd.block.Blocks;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 
-import static com.intellij.rtdd.block.Blocks.*;
-import static com.intellij.rtdd.Main.ofModIdentifier;
+import static io.github.crazypiggy.rtdd.block.Blocks.*;
+import static io.github.crazypiggy.rtdd.Main.ofModIdentifier;
 
 public class Items {
     public static final Item TEST_ITEM = new Item(new Item.Settings());

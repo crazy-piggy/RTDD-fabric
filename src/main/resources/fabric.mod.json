@@ -6,7 +6,8 @@
   "name": "Rural three-dimensional decoration",
   "description": "rtdd mod resources",
   "authors": [
-    "crazy_piggy_"
+    "crazy_piggy_",
+    "wzsjc2020"
   ],
   "contact": {
     "homepage": "https://space.bilibili.com/625049074"
@@ -18,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.intellij.rtdd.Main"
+      "io.github.crazypiggy.rtdd.Main"
     ]
   },
 
@@ -27,8 +28,5 @@
     "fabric-api": "*",
     "minecraft": "~1.19.4",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }

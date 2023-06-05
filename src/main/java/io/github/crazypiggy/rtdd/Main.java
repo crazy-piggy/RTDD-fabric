@@ -1,4 +1,4 @@
-package com.intellij.rtdd;
+package io.github.crazypiggy.rtdd;
 
 import com.intellij.rtdd.block.Blocks;
 import net.fabricmc.api.ModInitializer;
