@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/mu_lan_2",  "textures": {    "all": "rtdd:block/wei_lan_1",    "particle": "rtdd:block/wei_lan_1",    "1": "rtdd:block/log_big_oak"  },  "render_type": "solid"}

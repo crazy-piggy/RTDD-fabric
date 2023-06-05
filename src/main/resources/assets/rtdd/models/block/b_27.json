@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/gui_yu_dui_",  "textures": {    "all": "rtdd:block/gui_yu_dui_",    "particle": "rtdd:block/gui_yu_dui_",    "2": "rtdd:block/salmon"  },  "render_type": "cutout_mipped"}

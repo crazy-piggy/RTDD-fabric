@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/g8",  "textures": {    "all": "rtdd:block/log_big_oak",    "particle": "rtdd:block/log_big_oak",    "1": "rtdd:block/log_big_oak",    "2": "rtdd:block/priest",    "missing": "rtdd:block/"  },  "render_type": "solid"}

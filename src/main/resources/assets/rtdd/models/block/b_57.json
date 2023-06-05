@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/ti_zi_",  "textures": {    "all": "rtdd:block/mu_bang_",    "particle": "rtdd:block/mu_bang_",    "0": "rtdd:block/door_spruce_lower"  },  "render_type": "solid"}

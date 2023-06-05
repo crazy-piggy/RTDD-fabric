@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/mu_shi_mian_",  "textures": {    "all": "rtdd:block/cart",    "particle": "rtdd:block/cart",    "0": "rtdd:block/pasted1",    "2": "rtdd:block/cart"  },  "render_type": "solid"}

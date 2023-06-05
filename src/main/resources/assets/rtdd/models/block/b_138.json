@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/ying_bo_li_1",  "textures": {    "all": "rtdd:block/glass",    "particle": "rtdd:block/glass",    "0": "rtdd:block/glass2"  },  "render_type": "cutout"}

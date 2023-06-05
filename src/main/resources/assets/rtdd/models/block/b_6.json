@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/he_zi_",  "textures": {    "all": "rtdd:block/log_oak_top",    "particle": "rtdd:block/log_oak_top",    "0": "rtdd:block/log_oak_top"  },  "render_type": "solid"}

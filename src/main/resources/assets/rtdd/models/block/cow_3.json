@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/hookedcow_3",  "textures": {    "all": "rtdd:block/dead_cow",    "particle": "rtdd:block/dead_cow",    "4": "rtdd:block/stripped_spruce_log2",    "5": "rtdd:block/hacken",    "6": "rtdd:block/cow1",    "missing": "rtdd:block/"  },  "render_type": "solid"}

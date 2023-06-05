@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/booth",  "textures": {    "all": "rtdd:block/tan_wei_tai_",    "particle": "rtdd:block/tan_wei_tai_",    "0": "rtdd:block/log_oak_top",    "1": "rtdd:block/log_oak"  },  "render_type": "solid"}

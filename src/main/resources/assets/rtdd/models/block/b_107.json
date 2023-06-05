@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/jia_zi_a",  "textures": {    "all": "rtdd:block/door_spruce_upper",    "particle": "rtdd:block/door_spruce_upper",    "0": "rtdd:block/door_spruce_upper"  },  "render_type": "solid"}

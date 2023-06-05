@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/ba_",  "textures": {    "all": "rtdd:block/target_side",    "particle": "rtdd:block/target_side",    "0": "rtdd:block/target_side",    "1": "rtdd:block/target_top"  },  "render_type": "cutout_mipped"}

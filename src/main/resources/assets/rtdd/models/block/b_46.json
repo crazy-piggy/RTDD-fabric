@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/pen_quan_",  "textures": {    "all": "rtdd:block/andesite",    "particle": "rtdd:block/andesite",    "0": "rtdd:block/andesite"  },  "render_type": "solid"}

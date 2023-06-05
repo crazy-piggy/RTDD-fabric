@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/lu_1",  "textures": {    "all": "rtdd:block/iron_bars",    "particle": "rtdd:block/iron_bars",    "0": "rtdd:block/weathered_copper",    "1": "rtdd:block/brick",    "6": "rtdd:block/acacia_trapdoor"  },  "render_type": "cutout_mipped"}

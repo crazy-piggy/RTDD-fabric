@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/apple_pile",  "textures": {    "all": "rtdd:block/ping_guo_dui_",    "particle": "rtdd:block/ping_guo_dui_",    "0": "rtdd:block/apple"  },  "render_type": "solid"}

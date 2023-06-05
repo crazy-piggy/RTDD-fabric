@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/xu_shui_xiang_",  "textures": {    "all": "rtdd:block/copper_block",    "particle": "rtdd:block/copper_block",    "0": "rtdd:block/copper_block"  },  "render_type": "solid"}

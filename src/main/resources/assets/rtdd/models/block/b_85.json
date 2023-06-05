@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/jiu_0",  "textures": {    "all": "rtdd:block/empty_mug",    "particle": "rtdd:block/empty_mug",    "0": "rtdd:block/barrel",    "1": "rtdd:block/barrel_top",    "2": "rtdd:block/barrel_side",    "3": "rtdd:block/barrel_bottom"  },  "render_type": "solid"}

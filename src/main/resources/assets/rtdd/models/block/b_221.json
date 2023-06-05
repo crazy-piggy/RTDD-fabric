@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/chui_zi_",  "textures": {    "all": "rtdd:block/smithing_table_side",    "particle": "rtdd:block/smithing_table_side",    "2": "rtdd:block/smithing_table_side",    "missing": "rtdd:block/smithing_table_side"  },  "render_type": "solid"}

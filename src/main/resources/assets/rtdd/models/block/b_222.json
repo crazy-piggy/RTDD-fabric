@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/qian_zi_",  "textures": {    "all": "rtdd:block/smithing_table_front",    "particle": "rtdd:block/smithing_table_front",    "1": "rtdd:block/smithing_table_front"  },  "render_type": "solid"}

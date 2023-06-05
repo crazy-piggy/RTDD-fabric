@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/ge_zi_chuang_",  "textures": {    "all": "rtdd:block/stick1",    "particle": "rtdd:block/stick1",    "0": "rtdd:block/door_spruce_upper"  },  "render_type": "solid"}

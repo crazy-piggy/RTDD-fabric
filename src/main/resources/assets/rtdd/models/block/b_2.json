@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/potato_pile",  "textures": {    "all": "rtdd:block/cai_zhi_-ma_ling_shu_dui_",    "particle": "rtdd:block/cai_zhi_-ma_ling_shu_dui_",    "0": "rtdd:block/potato"  },  "render_type": "solid"}

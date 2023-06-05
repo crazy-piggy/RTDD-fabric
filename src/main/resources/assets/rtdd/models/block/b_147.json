@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/tong_hu_",  "textures": {    "all": "rtdd:block/copper_block",    "particle": "rtdd:block/copper_block",    "2": "rtdd:block/copper_block"  },  "render_type": "solid"}

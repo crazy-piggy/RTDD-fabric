@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/shi_zhuan_shi_mian_3",  "textures": {    "all": "rtdd:block/stone_bricks",    "particle": "rtdd:block/stone_bricks",    "0": "rtdd:block/stone_bricks"  },  "render_type": "solid"}

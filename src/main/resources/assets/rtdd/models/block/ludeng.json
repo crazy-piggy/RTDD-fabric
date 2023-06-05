@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/tie_gan_2",  "textures": {    "all": "rtdd:block/tie_lian_",    "particle": "rtdd:block/tie_lian_",    "0": "rtdd:block/spruce_planks",    "1": "rtdd:block/tie_lian_"  },  "render_type": "solid"}

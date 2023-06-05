@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/gan_cao_chuang_",  "textures": {    "all": "rtdd:block/gan_cao_",    "particle": "rtdd:block/gan_cao_",    "0": "rtdd:block/gan_cao_",    "missing": "rtdd:block/"  },  "render_type": "solid"}

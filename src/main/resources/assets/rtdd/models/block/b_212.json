@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/shui_cao_1",  "textures": {    "all": "rtdd:block/cauldron_top",    "particle": "rtdd:block/cauldron_top",    "1": "rtdd:block/cauldron_inner",    "2": "rtdd:block/cauldron_side"  },  "render_type": "solid"}

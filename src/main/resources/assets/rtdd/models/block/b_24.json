@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/nan_gua_",  "textures": {    "all": "rtdd:block/pumpkin_face_off",    "particle": "rtdd:block/pumpkin_face_off",    "1": "rtdd:block/log_oak_top",    "3": "rtdd:block/pumpkin_side",    "4": "rtdd:block/pumpkin_top"  },  "render_type": "solid"}

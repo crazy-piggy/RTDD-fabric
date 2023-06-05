@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/hu_luo_bu_dui_",  "textures": {    "all": "rtdd:block/carrot",    "particle": "rtdd:block/carrot",    "0": "rtdd:block/lobo"  },  "render_type": "cutout_mipped"}

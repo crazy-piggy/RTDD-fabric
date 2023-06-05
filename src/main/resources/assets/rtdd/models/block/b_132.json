@@ -1,0 +1,1 @@
+{  "parent": "rtdd:custom/mu_wan_",  "textures": {    "all": "rtdd:block/wan",    "particle": "rtdd:block/wan",    "1": "rtdd:block/wan"  },  "render_type": "solid"}
