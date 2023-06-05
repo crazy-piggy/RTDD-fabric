@@ -1,4 +1,4 @@
-package com.intellij.rtdd;
+package io.github.crazypiggy.rtdd;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;

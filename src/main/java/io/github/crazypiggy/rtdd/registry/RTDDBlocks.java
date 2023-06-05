@@ -1,8 +1,8 @@
-package com.intellij.rtdd.registry;
+package io.github.crazypiggy.rtdd.registry;
 
-import com.intellij.rtdd.RTDDMain;
-import com.intellij.rtdd.common.block.LargePileOfItemsBlock;
-import com.intellij.rtdd.common.block.SmallPileOfItemsBlock;
+import io.github.crazypiggy.rtdd.RTDDMain;
+import io.github.crazypiggy.rtdd.common.block.LargePileOfItemsBlock;
+import io.github.crazypiggy.rtdd.common.block.SmallPileOfItemsBlock;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;

@@ -1,6 +1,6 @@
-package com.intellij.rtdd.registry;
+package io.github.crazypiggy.rtdd.registry;
 
-import com.intellij.rtdd.RTDDMain;
+import io.github.crazypiggy.rtdd.RTDDMain;
 import net.minecraft.block.Block;
 import net.minecraft.registry.RegistryKeys;
 import net.minecraft.registry.tag.TagKey;

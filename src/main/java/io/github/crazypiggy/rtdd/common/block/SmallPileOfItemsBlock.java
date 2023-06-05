@@ -1,4 +1,4 @@
-package com.intellij.rtdd.common.block;
+package io.github.crazypiggy.rtdd.common.block;
 
 
 import net.minecraft.block.*;

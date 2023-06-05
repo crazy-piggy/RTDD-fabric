@@ -1,6 +1,6 @@
-package com.intellij.rtdd.registry;
+package io.github.crazypiggy.rtdd.registry;
 
-import com.intellij.rtdd.RTDDMain;
+import io.github.crazypiggy.rtdd.RTDDMain;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

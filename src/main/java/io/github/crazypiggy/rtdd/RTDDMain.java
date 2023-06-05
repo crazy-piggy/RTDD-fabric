@@ -1,7 +1,7 @@
-package com.intellij.rtdd;
+package io.github.crazypiggy.rtdd;
 
-import com.intellij.rtdd.registry.*;
-import com.intellij.rtdd.util.RTDDConstant;
+import io.github.crazypiggy.rtdd.registry.*;
+import io.github.crazypiggy.rtdd.util.RTDDConstant;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

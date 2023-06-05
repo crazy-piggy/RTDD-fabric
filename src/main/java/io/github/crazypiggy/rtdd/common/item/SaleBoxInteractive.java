@@ -1,4 +1,4 @@
-package com.intellij.rtdd.common.item;
+package io.github.crazypiggy.rtdd.common.item;
 
 import net.minecraft.item.ItemPlacementContext;
 

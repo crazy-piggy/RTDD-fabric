@@ -1,4 +1,4 @@
-package com.intellij.rtdd.registry;
+package io.github.crazypiggy.rtdd.registry;
 
 public class RTDDBlockEntityType {
 

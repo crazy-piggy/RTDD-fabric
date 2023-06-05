@@ -13,20 +13,28 @@
     "homepage": "https://space.bilibili.com/625049074"
   },
 
-  "license": "none",
+  "license": "MIT",
   "icon": "assets/rtdd/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.crazypiggy.rtdd.Main"
+      "io.github.crazypiggy.rtdd.RTDDMain"
+    ],
+    "client": [
+      "io.github.crazypiggy.rtdd.RTDDClient"
     ]
   },
+
 
   "depends": {
     "fabricloader": ">=0.14.17",
     "fabric-api": "*",
     "minecraft": "~1.19.4",
     "java": ">=17"
+  },
+
+  "suggests": {
+    "another-mod": "*"
   }
 }
